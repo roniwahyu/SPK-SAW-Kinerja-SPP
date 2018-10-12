@@ -1,0 +1,8 @@
+Multimedi Interaktif 2015
+
+
+AS3
+- http://www.freeactionscript.com/as3-scripts/
+- http://www.kirupa.com/developer/flash/index.htm
+Contoh Game AS3
+- http://www.freeactionscript.com/category/game-examples-as3/

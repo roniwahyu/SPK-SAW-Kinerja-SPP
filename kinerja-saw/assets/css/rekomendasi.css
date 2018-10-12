@@ -1,0 +1,30 @@
+h3.knob-label{
+	height: 55px;
+}
+.knob-input{
+	display:inline;
+	width:150px;
+	height:170px;
+
+}
+.knob.knob-green{
+	width: 79px;
+	 height: 50px;
+	 position: absolute;
+	 vertical-align: middle;
+	 margin-top: 50px;
+	 margin-left: -114px;
+	 border: 0px none;
+	 background: none repeat scroll 0% 0% transparent;
+	 font: bold 30px Arial;
+	 text-align: center;
+	 color: rgb(129, 197, 0);
+	 padding: 0px;
+
+}
+body{
+	background:url('../images/bg.jpg') no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+
+}
